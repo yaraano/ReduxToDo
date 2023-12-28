@@ -35,7 +35,7 @@ const App = () => {
     }
 
     return (
-        <div>
+        <div className={"container"}>
             <div>
                 <input
                     placeholder={'Enter your task'}
